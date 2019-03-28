@@ -2,7 +2,8 @@ package exec03;
 
 public class Esfera {
 	public double raio;
-
+	
+	//Retorna o raio da esfera
 	public double getRaio() {
 		return raio;
 	}
