@@ -1,7 +1,7 @@
 package exec07;
 
 import utils.Leitor;
-// eae
+
 public class TesteCone {
 
 	public static void main(String[] args) {
